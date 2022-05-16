@@ -4,9 +4,11 @@
   
   --ff-title: 'Staatliches', cursive, sans-serif;
   --fc-title: #FFFFFF;
+  --fs-title: 5rem;
 
   --ff-intro-text: 'Palanquin', sans-serif;
   --fc-intro-text: #23053A;
+  --fs-intro-text: 2rem;
   
   --bg-page: #EFF1FF;
   --bg-header: #8E9AAF;
@@ -14,12 +16,17 @@
 
   --bg-image-subtitle: #FEEAFA;
   --fc-image-subtitle: #4A4E69;
+
+  --ff-footer: 'Open Sans', sans-serif;
+  --fs-footer: 1.4rem;
+  --fc-footer: #4A4E69;
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
 }
 
 body {
@@ -30,20 +37,18 @@ body::before {
   content: '';
   width: 100%;
   height: 28rem;
-  /* background-color: var(--bg-header); ----> substituído por bg animado  */
+  /* background-color: var(--bg-header); ---> substituído por bg animado  */
   position: absolute;
   left: 0;
   top: 0;
   z-index: -1;
 
-  animation: gradient 8s ease infinite;
+  animation: gradient 7s ease infinite;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat;
   background-size: 300% 300%;
 }
 
 .page {
-  display: flex;
-  flex-direction: column;
   max-width: 38.4rem;
   margin: 0 auto;
 }
@@ -65,7 +70,7 @@ header {
   
   font-family: var(--ff-title);
   font-weight: 400;
-  font-size: 5rem;
+  font-size: var(--fs-title);
   line-height: 3.4rem;
   letter-spacing: 0.05em;
 
@@ -79,10 +84,10 @@ header {
 .intro-text {
   font-family: var(--ff-intro-text);
   font-weight: 400;
-  font-size: 2rem;
+  font-size: var(--fs-intro-text);
   line-height: 2rem;
   color: var(--fc-intro-text);
-  text-align: justify;
+  text-align: center;
   padding: 1rem 3.1rem 0;
 }
 
@@ -124,9 +129,122 @@ header {
 
 .card img {
   width: 100%;
-  height: auto;
+  height: 30rem;
   object-fit: cover;
   border-radius: 2rem;
+}
+
+footer {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 2.8rem;
+  margin: 5rem auto 4.6rem;
+}
+
+/* Desktop Version */
+
+@media (min-width: 700px) {
+
+  .card-wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 2.8rem;
+    margin: 5rem auto 4.6rem;
+  }
+
+  footer span {
+    font-family: var(--ff-footer);
+    font-size: var(--fs-footer);
+    font-weight: 400;
+    line-height: 2.8rem;
+    color: var(--fc-footer);
+  }
+
+  footer a {
+    font-family: var(--ff-footer);
+    font-size: var(--fs-footer);
+    font-weight: 700;
+    color: var(--fc-footer);
+    cursor: pointer;
+  }
+}
+
+@media (min-width: 930px) {
+  
+  :root {
+    --fs-title: 4.8rem;
+
+    --ff-intro-text: 'Roboto', sans-serif;
+    --fc-intro-text: #FFFFFF;
+  }
+  
+  body::before {
+    width: 0;
+  }
+
+  .page {
+    display: flex;
+    flex-direction: row;
+    max-width: 140rem;
+    margin: 0;
+  }
+
+  header {
+    width: 37.7rem;
+    min-height: 100vh;
+
+    animation: gradient 7s ease infinite;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat;
+    background-size: 300% 300%;
+  }
+
+  .card-wrapper {
+    display: grid;
+    max-width: 90rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    grid-template-areas: 
+      "img-A img-B img-B"
+      "img-C img-C img-D" 
+      "img-E img-F img-F"
+    ;
+   
+    gap: 3.2rem;
+    margin: 0 auto;
+    padding: 6.4rem 8rem 0;
+  }
+  
+  .card:nth-child(1) {
+    grid-area: img-A;
+  }
+
+  .card:nth-child(2) {
+    grid-area: img-B;
+  }
+
+  .card:nth-child(3) {
+    grid-area: img-C;
+  }
+
+  .card:nth-child(4) {
+    grid-area: img-D;
+  }
+
+  .card:nth-child(5) {
+    grid-area: img-E;
+  }
+
+  .card:nth-child(6) {
+    grid-area: img-F;
+  }
 }
 
 /* background header animation */
