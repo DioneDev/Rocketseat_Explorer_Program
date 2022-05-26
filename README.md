@@ -6,4 +6,3 @@
 
 ### :leaves: Loading...
 
-[imagens](Stage-04-Introduction-to-Javascript-Programming-Class_01)
