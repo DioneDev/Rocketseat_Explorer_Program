@@ -2,10 +2,12 @@
   :rocket: Imagens dos exercícios em aula
 </h2>
 
+</br>
+
 <div align="center"> 
   <img 
     src="https://user-images.githubusercontent.com/73083955/170391674-bbbfaf03-87f4-4f6b-9853-3cd9b894f251.png" 
-    width="700px" 
+    width="700px"
     alt="Imagem do exercício número 1"
    />
 </div>
@@ -35,7 +37,7 @@
 <div align="center"> 
   <img 
     src="https://user-images.githubusercontent.com/73083955/170391681-c6b05717-76a0-4046-9c55-37098069618b.png" 
-    width="700px" 
+    width="700px"
     alt="Imagem do exercício número 4"
    />
 </div>
