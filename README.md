@@ -6,16 +6,20 @@
 
 ### :leaves: Loading...
 
-<h2 align="center">Stage 02 -> Introduction to HTML and CSS - <a href="https://github.com/DioneDev/Rocketseat_Explorer_Program/tree/main/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2001%20-%20Bug%20fixing">Challenge 01</a></h2>
+<h2 align="center">
+  Stage 02: Introduction to HTML and CSS
+</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73083955/170885315-df008aca-0b05-4358-b9e7-468ff167b0a1.png" width="700px" />
+<div align="center"> 
+  <p>
+    <strong>Challenge 01:</strong> The purpose of this challenge was to reorganize the html code.
+  </p>
+  
+  <a href="https://github.com/DioneDev/Rocketseat_Explorer_Program/tree/main/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2001%20-    %20Bug%20fixing">See Code
+  <a>
 </div>
 
-[See code](https://github.com/DioneDev/Rocketseat_Explorer_Program/tree/main/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2001%20-%20Bug%20fixing)
-
-
-<div align="center">
-  <img />
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/73083955/170894122-ed79502e-4326-454d-b119-eb18de40dda9.gif" />
 </div>
-
+  
