@@ -22,4 +22,19 @@
 <div align="center">  
   <img src="https://user-images.githubusercontent.com/73083955/170894122-ed79502e-4326-454d-b119-eb18de40dda9.gif" />
 </div>
+    
+</br>
+  
+<div align="center"> 
+  <p>
+    <strong>Challenge 02:</strong>
+  </p>
+  
+  <a href="">See Code
+  <a>
+</div>
+    
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/73083955/170895020-d477d241-98e9-407d-9350-d3e8727f8151.gif" />
+</div>
   
