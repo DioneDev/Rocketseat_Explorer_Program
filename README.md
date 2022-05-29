@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/73083955/170885315-df008aca-0b05-4358-b9e7-468ff167b0a1.png" width="700px" />
 </div>
 
-[Courses](https://github.com/DioneDev/Rocketseat_Explorer_Program/blob/bef1e5c78c6d11b39d604885737af7ab0568476c/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2001%20-%20Bug%20fixing/index.html)
+![Código do Desafio](https://github.com/DioneDev/Rocketseat_Explorer_Program/tree/main/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2001%20-%20Bug%20fixing)
 
 
 <div align="center">
