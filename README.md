@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/73083955/170885315-df008aca-0b05-4358-b9e7-468ff167b0a1.png" width="700px" />
 </div>
 
-[Ir para desafio 01] ()
+[Courses](Stage-02 - Introduction to HTML and CSS/Challenge 01 - Bug fixing/index.html)
 
 
 <div align="center">
