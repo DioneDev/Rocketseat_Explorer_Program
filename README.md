@@ -2,10 +2,6 @@
 
 :pushpin: Criei este repositório com a finalidade de organizar meus estudos referente ao programa explorer. Além de também servir como consulta para projetos futuros.
 
-### :warning: Readme em atualização
-
-### :leaves: Loading...
-
 <h2 align="center">
   Stage 02: Introduction to HTML and CSS
 </h2>
@@ -20,7 +16,7 @@
 </div>
 
 <div align="center">  
-  <img src="https://user-images.githubusercontent.com/73083955/170894122-ed79502e-4326-454d-b119-eb18de40dda9.gif" />
+  <img src="https://user-images.githubusercontent.com/73083955/170894122-ed79502e-4326-454d-b119-eb18de40dda9.gif" alt="Gif mostrando antes e depois do desafio 01" />
 </div>
     
 </br>
@@ -35,7 +31,7 @@
 </div>
     
 <div align="center">  
-  <img src="https://user-images.githubusercontent.com/73083955/170895020-d477d241-98e9-407d-9350-d3e8727f8151.gif" />
+  <img src="https://user-images.githubusercontent.com/73083955/170895020-d477d241-98e9-407d-9350-d3e8727f8151.gif" alt="Gif mostrando antes e depois do desafio 02" />
 </div>
     
 </br>
@@ -50,8 +46,32 @@
 </div>
     
 <div align="center">  
-  <img src="https://user-images.githubusercontent.com/73083955/170899563-f9151122-a980-483d-b16b-3649bedff355.gif" />
+  <img src="https://user-images.githubusercontent.com/73083955/170899563-f9151122-a980-483d-b16b-3649bedff355.gif" alt="Gif mostrando layout finalizado do desafio 4" />
 </div>
+    
+</br>
+  
+<h2 align="center">
+  Stage 03: Advancing in HTML and CSS
+</h2>
+  
+<div align="center"> 
+  <p>
+    <strong>Challenge 04:</strong>
+  </p>
+  
+  <a href="">See Code
+  <a>
+</div>
+    
+<div align="center">  
+  <img src="" />
+</div>
+    
+
+
+### :warning: Readme em atualização    
+### :leaves: Loading...
     
 
   
