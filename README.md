@@ -15,7 +15,7 @@
     <strong>Challenge 01:</strong> The purpose of this challenge was to learn how to organize HTML elements.
   </p>
   
-  <a href="https://github.com/DioneDev/Rocketseat_Explorer_Program/tree/main/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2001%20-    %20Bug%20fixing">See Code
+  <a href="https://github.com/DioneDev/Rocketseat_Explorer_Program/tree/main/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2001%20-%20Bug%20fixing">See Code
   <a>
 </div>
 
