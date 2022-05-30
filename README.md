@@ -37,4 +37,21 @@
 <div align="center">  
   <img src="https://user-images.githubusercontent.com/73083955/170895020-d477d241-98e9-407d-9350-d3e8727f8151.gif" />
 </div>
+    
+</br>
+  
+<div align="center"> 
+  <p>
+    <strong>Challenge 04:</strong> The objective of this challenge was to review the concepts learned in stage 2
+  </p>
+  
+  <a href="https://github.com/DioneDev/Rocketseat_Explorer_Program/tree/main/Stage-02%20-%20Introduction%20to%20HTML%20and%20CSS/Challenge%2004%20-%20Rocket.sect">See Code
+  <a>
+</div>
+    
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/73083955/170899563-f9151122-a980-483d-b16b-3649bedff355.gif" />
+</div>
+    
+
   
